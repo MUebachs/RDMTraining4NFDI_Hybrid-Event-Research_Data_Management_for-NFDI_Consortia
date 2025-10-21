@@ -47,20 +47,20 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 1: Foundations of Research Data Management for Trainers
 
-### Module
+**Module**
 
  - **Title:** Train-the-Trainer Concept on Research Data Management
  - **URL:** https://doi.org/10.5281/zenodo.4071470 
  - **Author(s):** Biernacka, K., Castillo Upiachihua, C. B., Dockhorn, R., Engelhardt, C., Grunwald-Eckhardt, L., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Scherreiks, P., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C.
 
-### Goal(s)
+**Goal(s)**
 
 - Identify the key principles of the Train-the-Trainer Concept on Research Data Management.
 - Describe the structure and purpose of the Train-the-Trainer Concept.
 - Apply elements of the Train-the-Trainer Concept to the design of your own teaching materials.
 - Evaluate the usefulness of the Train-the-Trainer Concept for different teaching contexts.
 
-### Section(s)
+**Section(s)**
 
 Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 
@@ -84,31 +84,31 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
     - ...
     - ...
 
-### Exercise(s)
+**Exercise(s)**
 
   - [ ] Which units are you choosing? Connect with others studying the same unit(s) via [Rocket.Chat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4)
   - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 2: Open Science
 
-### Module
+**Module**
 
 - **Title:** Open Research
 - **URL:** https://book.the-turing-way.org/reproducible-research/open
 - **Author(s):** The Turing Way Community
 - **Learning time:** 1 to 2.5 hours
 
-### Goal(s)
+**Goal(s)**
 
 - Define open research / science.
 - Appraise the usefulness of open science.
 - Describe open access as an area of open science. 
 
-### Section(s)
+**Section(s)**
 
 [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access) and at least one other section. Let your fellow learners know what your main take away has been.
 
-### Exercise(s)
+**Exercise(s)**
 
 - [ ] Considering the stages of the [RDMkit research data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle) (i.e. plan, collect, process, analyse, preserve, share, reuse), could you suggest one or more open practices for each stage that are specific to your discipline? Share a sample in the [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and see what ideas others have!
 - [ ] Please answer the following questions using bullet points:
@@ -124,7 +124,7 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 - [ ] Adapt the checklist for your own discipline by providing examples.
 - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
-### Going Beyond the Material
+**Going Beyond the Material**
 
 - [ ] Here is the definition of Open Science from the UNESCO Recommendation on Open Science:
 
@@ -134,7 +134,7 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 
 # Module 3: Python for Advanced
 
-### Module
+**Module**
 
 - **Titles and URLs:** 
     - [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
@@ -144,25 +144,25 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 - **Author(s):** Förstner Lab
 - **Learning time:** 2.5 hours
 
-### Goal(s)
+**Goal(s)**
 
-### Section(s)
+**Section(s)**
 
-### Exercise(s)
+**Exercise(s)**
 
 - [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
 - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 4: Git for Beginners
 
-### Module
+**Module**
 
 - **Title:** Getting started with Git
 - **URL:** https://librarycarpentry.github.io/lc-git/02-getting-started.html 
 - **Author(s):** Silvia di Giorgio (Ed.), Christopher Erdmann (Ed.), Thea Atwood (Ed.), Eric Lopatin (Ed.), Drew Heles (Ed.), Eva Seidlmayer (Ed.), Katrin Leinweber (Ed.), Belinda Weaver (Ed.), Jez Cope (Ed.), James Baker, Nora McGregor, Dan Michael O. Heggø, … Wolmar Nyberg Åkerström.
 - **Learning time:** 2.5 hours
 
-### Goal(s)
+**Goal(s)**
 
 **Version control** is the practice of recording and managing changes to files over time, so you can always return to earlier versions when needed. It offers powerful benefits: working concurrently without overwriting each other’s work, keeping multiple versions safely, maintaining a complete history of changes, and tracing or annotating every edit. Together, these practices make research outputs clearer, more reliable, and easier to understand.
 
@@ -176,11 +176,11 @@ In this module, you will:
  - Track changes to files using the Git repository.
  - Query the current status of the Git repository.
 
-### Section(s)
+**Section(s)**
 
 Section 2. Getting Started with Git.
 
-### Exercise(s)
+**Exercise(s)**
 
  - [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
  - [ ] Checking out: https://learngitbranching.js.org/ 
@@ -188,36 +188,36 @@ Section 2. Getting Started with Git.
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-### Module
+**Module**
 
 - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
 - **URL:** https://doi.org/10.5281/zenodo.15771035 
 - **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
 - **Learning time:** 2.5 hours
 
-### Goal(s)
+**Goal(s)**
 
 Familiarise yourself with the DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO, as it is a valuable resource for creating your own teaching materials.
 
-### Section(s)
+**Section(s)**
 
 Section 3.2. Training modules and levels (p. 9).
 
-### Exercise(s)
+**Exercise(s)**
 
 - [ ] Try creating your own discipline-specific training materials based on the learning objectives (Level 2 - Advanced (p. 10) and Level 3 - Expert (p. 11)).
 - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 6: Sharing Data & Metadata
 
-### Module
+**Module**
 
 - **Title:** Data Sharing and Publishing
 - **URL:** https://doi.org/10.5281/zenodo.16792998 
 - **Author(s):** Gabriel, V., Spenger, M., Vandendorpe, J., & Grummich, K.
 - **Learning time:** 2 hours
 
-### Goal(s)
+**Goal(s)**
 
  - State general requirements for data protection and access control.
  - Understand the different access options that exist for data/digital resources.
@@ -227,11 +227,11 @@ Section 3.2. Training modules and levels (p. 9).
  - Appraise the usefulness of PIDs.
  - Find and choose an appropriate repository to publish their data.
 
- ### Section(s)
+**Section(s)**
 
  All.
 
- ### Exercise(s)
+**Exercise(s)**
 
  - [ ] **Slide 39:** How many Digital Object Identifiers (DOIs) have been assigned so far?
  - [ ] **Slide 44:** Find your institution's Research Organization Registry (ROR) entry. How many child and related organisations are associated with your institution?
@@ -245,9 +245,9 @@ Section 3.2. Training modules and levels (p. 9).
     - [ ] Is the repository certified or support a repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
- # Further self-learning materials that can be of interest
+# Further self-learning materials that can be of interest
 
-  - https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 
+ - https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 
 
 # Participant Questionnaire
 
