@@ -47,71 +47,71 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 1: Foundations of Research Data Management for Trainers
 
-**Module**
+ ### Module
 
  - **Title:** Train-the-Trainer Concept on Research Data Management
  - **URL:** https://doi.org/10.5281/zenodo.4071470 
  - **Author(s):** Biernacka, K., Castillo Upiachihua, C. B., Dockhorn, R., Engelhardt, C., Grunwald-Eckhardt, L., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Scherreiks, P., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C.
 
-**Goal(s)**
+ ### Goal(s)
 
-- Identify the key principles of the Train-the-Trainer Concept on Research Data Management.
-- Describe the structure and purpose of the Train-the-Trainer Concept.
-- Apply elements of the Train-the-Trainer Concept to the design of your own teaching materials.
-- Evaluate the usefulness of the Train-the-Trainer Concept for different teaching contexts.
+ - Identify the key principles of the Train-the-Trainer Concept on Research Data Management.
+ - Describe the structure and purpose of the Train-the-Trainer Concept.
+ - Apply elements of the Train-the-Trainer Concept to the design of your own teaching materials.
+ - Evaluate the usefulness of the Train-the-Trainer Concept for different teaching contexts.
 
-**Section(s)**
+ ### Section(s)
 
-Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
+ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 
  - Unit 4
     - Content
     - Learning time: ~20 minutes
-- Unit 5
+ - Unit 5
     - ...
     - ...
-- Unit 6
+ - Unit 6
     - ...
     - ...
-- Unit 7
+ - Unit 7
     - Content
     - Learning time: ~10 minutes
-- ...
-- Unit 16
+ - ...
+ - Unit 16
     - Content
     - Learning time:~15 minutes
-- Unit 18
+ - Unit 18
     - ...
     - ...
 
-**Exercise(s)**
+ ### Exercise(s)
 
   - [ ] Which units are you choosing? Connect with others studying the same unit(s) via [Rocket.Chat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4)
   - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 2: Open Science
 
-**Module**
+ ### Module
 
-- **Title:** Open Research
-- **URL:** https://book.the-turing-way.org/reproducible-research/open
-- **Author(s):** The Turing Way Community
-- **Learning time:** 1 to 2.5 hours
+ - **Title:** Open Research
+ - **URL:** https://book.the-turing-way.org/reproducible-research/open
+ - **Author(s):** The Turing Way Community
+ - **Learning time:** 1 to 2.5 hours
 
-**Goal(s)**
+ ### Goal(s)
 
-- Define open research / science.
-- Appraise the usefulness of open science.
-- Describe open access as an area of open science. 
+ - Define open research / science.
+ - Appraise the usefulness of open science.
+ - Describe open access as an area of open science. 
 
-**Section(s)**
+ ### Section(s)
 
-[Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access) and at least one other section. Let your fellow learners know what your main take away has been.
+ [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access) and at least one other section. Let your fellow learners know what your main take away has been.
 
-**Exercise(s)**
+ ### Exercise(s)
 
-- [ ] Considering the stages of the [RDMkit research data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle) (i.e. plan, collect, process, analyse, preserve, share, reuse), could you suggest one or more open practices for each stage that are specific to your discipline? Share a sample in the [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and see what ideas others have!
-- [ ] Please answer the following questions using bullet points:
+ - [ ] Considering the stages of the [RDMkit research data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle) (i.e. plan, collect, process, analyse, preserve, share, reuse), could you suggest one or more open practices for each stage that are specific to your discipline? Share a sample in the [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and see what ideas others have!
+ - [ ] Please answer the following questions using bullet points:
     - What are the potential advantages of open science practices in the subject area in which your users are active? (Please specify the area.)
     - What are the potential challenges of implementing open science practices in this subject area?
 - [ ] Write a brief profile of a tool or initiative that can be used to promote or implement open science. This could be a tool or initiative that you know about or use, or that your institution offers or is involved in. The minimum information required is: 
@@ -121,12 +121,12 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
     - One to two sentences/key points on the extent to which it supports open science.
 
     This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
-- [ ] Adapt the checklist for your own discipline by providing examples.
-- [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+ - [ ] Adapt the checklist for your own discipline by providing examples.
+ - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
-**Going Beyond the Material**
+ ### Going Beyond the Material
 
-- [ ] Here is the definition of Open Science from the UNESCO Recommendation on Open Science:
+ - [ ] Here is the definition of Open Science from the UNESCO Recommendation on Open Science:
 
     “[…] For the purpose of this Recommendation, Open Science is defined as an inclusive construct that combines various movements and practices aiming to make scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. […]”
     https://unesdoc.unesco.org/ark:/48223/pf0000379949?posInSet=3&queryId=70bbc01e-867a-40ad-8c24-e90f0b4c1ae0 
@@ -134,53 +134,53 @@ Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 
 # Module 3: Python for Advanced
 
-**Module**
+ ### Module
 
-- **Titles and URLs:** 
+ - **Titles and URLs:** 
     - [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
     - [Merge Data Frames With Pandas (DE)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby.ipynb) 
     - [Object-Oriented Programming (DE, EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/tree/main/python/object_orientated_programming) 
     - [ISBN Cleaning Function (DE)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/tree/main/python/python_functions) 
-- **Author(s):** Förstner Lab
-- **Learning time:** 2.5 hours
+ - **Author(s):** Förstner Lab
+ - **Learning time:** 2.5 hours
 
-**Goal(s)**
+ ### Goal(s)
 
-**Section(s)**
+ ### Section(s)
 
-**Exercise(s)**
+ ### Exercise(s)
 
-- [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
-- [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+ - [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
+ - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 4: Git for Beginners
 
-**Module**
+ ### Module
 
-- **Title:** Getting started with Git
-- **URL:** https://librarycarpentry.github.io/lc-git/02-getting-started.html 
-- **Author(s):** Silvia di Giorgio (Ed.), Christopher Erdmann (Ed.), Thea Atwood (Ed.), Eric Lopatin (Ed.), Drew Heles (Ed.), Eva Seidlmayer (Ed.), Katrin Leinweber (Ed.), Belinda Weaver (Ed.), Jez Cope (Ed.), James Baker, Nora McGregor, Dan Michael O. Heggø, … Wolmar Nyberg Åkerström.
-- **Learning time:** 2.5 hours
+ - **Title:** Getting started with Git
+ - **URL:** https://librarycarpentry.github.io/lc-git/02-getting-started.html 
+ - **Author(s):** Silvia di Giorgio (Ed.), Christopher Erdmann (Ed.), Thea Atwood (Ed.), Eric Lopatin (Ed.), Drew Heles (Ed.), Eva Seidlmayer (Ed.), Katrin Leinweber (Ed.), Belinda Weaver (Ed.), Jez Cope (Ed.), James Baker, Nora McGregor, Dan Michael O. Heggø, … Wolmar Nyberg Åkerström.
+ - **Learning time:** 2.5 hours
 
-**Goal(s)**
+ ### Goal(s)
 
-**Version control** is the practice of recording and managing changes to files over time, so you can always return to earlier versions when needed. It offers powerful benefits: working concurrently without overwriting each other’s work, keeping multiple versions safely, maintaining a complete history of changes, and tracing or annotating every edit. Together, these practices make research outputs clearer, more reliable, and easier to understand.
+ **Version control** is the practice of recording and managing changes to files over time, so you can always return to earlier versions when needed. It offers powerful benefits: working concurrently without overwriting each other’s work, keeping multiple versions safely, maintaining a complete history of changes, and tracing or annotating every edit. Together, these practices make research outputs clearer, more reliable, and easier to understand.
 
-**Version Control Systems (VCSs)** such as Git put these practices into action. They allow research teams to manage files (such as scripts, code, and documentation) seamlessly while preserving the full story of how the work evolved.
+ **Version Control Systems (VCSs)** such as Git put these practices into action. They allow research teams to manage files (such as scripts, code, and documentation) seamlessly while preserving the full story of how the work evolved.
 
-By adopting version control, researchers and those who support them gain a foundation for reproducibility, transparency, and collaboration, all of which are essential to trustworthy, modern research.
+ By adopting version control, researchers and those who support them gain a foundation for reproducibility, transparency, and collaboration, all of which are essential to trustworthy, modern research.
 
-In this module, you will:
+ In this module, you will:
 
  - Create a Git repository.
  - Track changes to files using the Git repository.
  - Query the current status of the Git repository.
 
-**Section(s)**
+ ### Section(s)
 
-Section 2. Getting Started with Git.
+ Section 2. Getting Started with Git.
 
-**Exercise(s)**
+ ### Exercise(s)
 
  - [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
  - [ ] Checking out: https://learngitbranching.js.org/ 
@@ -188,36 +188,36 @@ Section 2. Getting Started with Git.
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-**Module**
+ ### Module
 
-- **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
-- **URL:** https://doi.org/10.5281/zenodo.15771035 
-- **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
-- **Learning time:** 2.5 hours
+ - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
+ - **URL:** https://doi.org/10.5281/zenodo.15771035 
+ - **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
+ - **Learning time:** 2.5 hours
 
-**Goal(s)**
+ ### Goal(s)
 
-Familiarise yourself with the DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO, as it is a valuable resource for creating your own teaching materials.
+ Familiarise yourself with the DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO, as it is a valuable resource for creating your own teaching materials.
 
-**Section(s)**
+ ### Section(s)
 
-Section 3.2. Training modules and levels (p. 9).
+ Section 3.2. Training modules and levels (p. 9).
 
-**Exercise(s)**
+ ### Exercise(s)
 
-- [ ] Try creating your own discipline-specific training materials based on the learning objectives (Level 2 - Advanced (p. 10) and Level 3 - Expert (p. 11)).
-- [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+ - [ ] Try creating your own discipline-specific training materials based on the learning objectives (Level 2 - Advanced (p. 10) and Level 3 - Expert (p. 11)).
+ - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 6: Sharing Data & Metadata
 
-**Module**
+ **Module**
 
-- **Title:** Data Sharing and Publishing
-- **URL:** https://doi.org/10.5281/zenodo.16792998 
-- **Author(s):** Gabriel, V., Spenger, M., Vandendorpe, J., & Grummich, K.
-- **Learning time:** 2 hours
+ - **Title:** Data Sharing and Publishing
+ - **URL:** https://doi.org/10.5281/zenodo.16792998 
+ - **Author(s):** Gabriel, V., Spenger, M., Vandendorpe, J., & Grummich, K.
+ - **Learning time:** 2 hours
 
-**Goal(s)**
+ **Goal(s)**
 
  - State general requirements for data protection and access control.
  - Understand the different access options that exist for data/digital resources.
@@ -227,11 +227,11 @@ Section 3.2. Training modules and levels (p. 9).
  - Appraise the usefulness of PIDs.
  - Find and choose an appropriate repository to publish their data.
 
-**Section(s)**
+ **Section(s)**
 
  All.
 
-**Exercise(s)**
+ ### Exercise(s)
 
  - [ ] **Slide 39:** How many Digital Object Identifiers (DOIs) have been assigned so far?
  - [ ] **Slide 44:** Find your institution's Research Organization Registry (ROR) entry. How many child and related organisations are associated with your institution?
@@ -251,9 +251,9 @@ Section 3.2. Training modules and levels (p. 9).
 
 # Participant Questionnaire
 
-After finishing all or part of the modules, please complete the following questionnaire (which may load slowly), which should take around 10 minutes:
+ After finishing all or part of the modules, please complete the following questionnaire (which may load slowly), which should take around 10 minutes:
 
-https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/
+ https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/
 
 # Authors & Contributors
 
