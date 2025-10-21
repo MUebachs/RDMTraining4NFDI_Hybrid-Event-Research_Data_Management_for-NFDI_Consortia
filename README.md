@@ -210,14 +210,14 @@ Section 3.2. Training modules and levels (p. 9).
 
 # Module 6: Sharing Data & Metadata
 
-# Module
+### Module
 
 - **Title:** Data Sharing and Publishing
 - **URL:** https://doi.org/10.5281/zenodo.16792998 
 - **Author(s):** Gabriel, V., Spenger, M., Vandendorpe, J., & Grummich, K.
 - **Learning time:** 2 hours
 
-# Goal(s)
+### Goal(s)
 
  - State general requirements for data protection and access control.
  - Understand the different access options that exist for data/digital resources.
