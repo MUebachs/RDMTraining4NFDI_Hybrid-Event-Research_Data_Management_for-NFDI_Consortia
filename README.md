@@ -186,9 +186,9 @@ Section 2. Getting Started with Git.
  - [ ] Checking out: https://learngitbranching.js.org/ 
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
- # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
+# Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
- ### Module
+### Module
 
 - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
 - **URL:** https://doi.org/10.5281/zenodo.15771035 
