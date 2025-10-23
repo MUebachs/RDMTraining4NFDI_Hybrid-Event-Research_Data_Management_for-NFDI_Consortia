@@ -173,7 +173,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
     “[…] For the purpose of this Recommendation, Open Science is defined as an inclusive construct that combines various movements and practices aiming to make scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. […]”
     https://unesdoc.unesco.org/ark:/48223/pf0000379949?posInSet=3&queryId=70bbc01e-867a-40ad-8c24-e90f0b4c1ae0 
-    Research another definition of open science from an institution or organisation that plays a significant role in your work or discipline. How does this definition differ from or resemble the one mentioned?.
+    Research another definition of open science from an institution or organisation that plays a significant role in your work or discipline. How does this definition differ from or resemble the one mentioned?
 
 # Module 3: Python for Advanced
 
@@ -181,15 +181,24 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  - **Titles and URLs:** 
     - [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
-    - [Merge Data Frames With Pandas (DE)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby.ipynb) 
-    - [Object-Oriented Programming (DE, EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/tree/main/python/object_orientated_programming) 
-    - [ISBN Cleaning Function (DE)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/tree/main/python/python_functions) 
+    - [Merge Data Frames With Pandas (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby-en.ipynb) 
+    - [Object-Oriented Programming (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/object_orientated_programming/Object-Oriented-Programming_english.ipynb) 
+    - [ISBN Cleaning Function (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/python_functions/ISBN_cleaning_function_english.ipynb) 
  - **Author(s):** Förstner Lab
  - **Learning time:** 2.5 hours
 
  ### Goal(s)
 
+ - Create scatter plots, box plots, violin plots and more with Seaborn (notebook a).
+ - Customizing plots using themes, colours and labels with Seaborn (notebook a). 
+ - Combine datasets with Pandas (notebook b).  
+ - Define classes and objects in Python (notebook c).
+ - Use classes and objects in Python (notebook c).
+ - Write your own Python functions (notebook d).
+
  ### Section(s)
+
+ All topics of interest.
 
  ### Exercise(s)
 
@@ -233,7 +242,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Module
 
- - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
+ - **Title:** DMP4NFDI Self-learning module: Train-the-Trainer on Data Management Plans
  - **URL:** https://doi.org/10.5281/zenodo.15771035 
  - **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
  - **Learning time:** 2.5 hours
