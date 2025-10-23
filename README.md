@@ -242,7 +242,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Module
 
- - **Title:** DMP4NFDI Self-learning module: Train-the-Trainer on Data Management Plans
+ - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
  - **URL:** https://doi.org/10.5281/zenodo.15771035 
  - **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
  - **Learning time:** 2.5 hours
