@@ -25,9 +25,7 @@ icon: https://base4nfdi.de/images/Logo_base4NFDI_kurz-1.png
 [![course badge](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://raw.githubusercontent.com/MUebachs/RDMTraining4NFDI_Hybrid-Event-Research_Data_Management_for-NFDI_Consortia/refs/heads/main/README.md)
 
 # RDMTraining4NFDI Hybrid Event: Research Data Management for NFDI Consortia
-Creators:
-
-Justine Vandendorpe, vandendorpe@zbmed.de 
+**Contact:** Justine Vandendorpe (vandendorpe@zbmed.de)
 
 ## Quick Start Guide: Top 3 Things to Know
 
