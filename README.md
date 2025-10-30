@@ -157,7 +157,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - [ ] Please answer the following questions using bullet points:
     - What are the potential advantages of open science practices in the subject area in which your users are active? (Please specify the area.)
     - What are the potential challenges of implementing open science practices in this subject area?
-- [ ] Write a brief profile of a tool or initiative that can be used to promote or implement open science. This could be a tool or initiative that you know about or use, or that your institution offers or is involved in. The minimum information required is: 
+ - [ ] Write a brief profile of a tool or initiative that can be used to promote or implement open science. This could be a tool or initiative that you know about or use, or that your institution offers or is involved in. The minimum information required is: 
     - Name of the tool/initiative
     - Link
     - Assignment to the step in the research data life cycle
