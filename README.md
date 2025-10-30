@@ -165,10 +165,10 @@ If you have any questions about the materials, exercises, or other aspects of th
  - Assignment to the step in the research data life cycle
  - One to two sentences/key points on the extent to which it supports open science.
 
-    This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
+ This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
 
-    - [ ] Adapt the checklist for your own discipline by providing examples.
-    - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+ - [ ] Adapt the checklist for your own discipline by providing examples.
+ - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
  ### Going Beyond the Material
 
