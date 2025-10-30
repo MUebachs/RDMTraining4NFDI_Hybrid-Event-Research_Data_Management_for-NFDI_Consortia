@@ -63,65 +63,85 @@ If you have any questions about the materials, exercises, or other aspects of th
  Choose three units from units 4, 5, 7, 8, 9, 10, 16 and 18.
 
  - Unit 4: Digital Research Data
-    - Contents
-      - Research Data
-      - Research Data Lifecycle
-      - Research Data Workflow
-      - Research Data Management
-    - Learning time: ~20 minutes
- - Unit 5: Research Data Policies
-    - Contents
-      - What is Research Data Policy?
-      - Journal and Publisher Policies
-      - Institutional Policies
-      - Subject-Specific Policies
-      - Policies of Research Funders
- - Unit 7: Order and Structure
-    - Contents
-      - Motivation
-      - Directory Structure
-      - Naming
-      - Renaming Multiple Files Simultaneously
-      - Version Control
-    - Learning time: ~10 minutes
- - Unit 8: Documentation and Metadata
+
    - Contents
-      - Documentation
-      - What are Metadata?
-      - Metadata Standards
-      - Discipline-Specific Metadata Standards
-      - Thesaurus, Authority Data and Controlled Vocabulary
-      - Electronic Lab Notebooks (ELN) 
+
+     - Research Data
+     - Research Data Lifecycle
+     - Research Data Workflow
+     - Research Data Management
+
+   - Learning time: ~20 minutes
+ - Unit 5: Research Data Policies
+
+   - Contents
+
+     - What is Research Data Policy?
+     - Journal and Publisher Policies
+     - Institutional Policies
+     - Subject-Specific Policies
+     - Policies of Research Funders
+   - Learning time: 10-20 minutes
+ - Unit 7: Order and Structure
+
+   - Contents
+
+     - Motivation
+     - Directory Structure
+     - Naming
+     - Renaming Multiple Files Simultaneously
+     - Version Control
+   - Learning time: ~10 minutes
+ - Unit 8: Documentation and Metadata
+
+   - Contents
+
+     - Documentation
+     - What are Metadata?
+     - Metadata Standards
+     - Discipline-Specific Metadata Standards
+     - Thesaurus, Authority Data and Controlled Vocabulary
+     - Electronic Lab Notebooks (ELN) 
    - Learning time: 10-20 minutes
  - Unit 9: Storage and Backup
+
    - Contents
-      - Data Storage
-      - Backup Variants
-      - Tips for a Secure Backup
-      - Checking Usability
+
+    - Data Storage
+    - Backup Variants
+    - Tips for a Secure Backup
+    - Checking Usability
+
    - Learning Time: 10-20 minutes
+
  - Unit 10: Long-Term Archiving
+
    - Contents
-      - Motivation
-      - Long-Term Archiving Concept
-      - Sustainable File Formats
-      - Evaluation and Selection of Data for Digital Long-Term Archiving
-      - Requirements for Long-Term Archives
+
+     - Motivation
+     - Long-Term Archiving Concept
+     - Sustainable File Formats
+     - Evaluation and Selection of Data for Digital Long-Term Archiving
+     - Requirements for Long-Term Archives
    - Learning Time: 10-20 minutes
  - Unit 16: Reuse of Research Data
-    - Contents
-      - Why reuse?
-      - Researching
-      - Access and Usage Conditions
-      - Guiding Questions for Assessing Reusability
-      - Citing
-    - Learning time:~15 minutes
+
+   - Contents
+
+     - Why reuse?
+     - Researching
+     - Access and Usage Conditions
+     - Guiding Questions for Assessing Reusability
+     - Citing
+   - Learning time:~15 minutes
  - Unit 18: Research Data Infrastructures
-    - Contents
-      - Institutional Research Data Management
-      - German and International RDM Services
-      - Networks and Organisations in Research Data Management
-    - Learning time: 10-20 minutes
+
+   - Contents
+
+     - Institutional Research Data Management
+     - German and International RDM Services
+     - Networks and Organisations in Research Data Management
+   - Learning time: 10-20 minutes
 
  ### Exercise(s)
 
