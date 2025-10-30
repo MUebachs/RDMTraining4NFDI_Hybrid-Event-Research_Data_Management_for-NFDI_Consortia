@@ -266,7 +266,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  ### Module
 
  - **Title:** DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO
- - **URL:** https://doi.org/10.5281/zenodo.15771035 
+ - **URL:** https://doi.org/10.5281/zenodo.15771035 / https://liascript.github.io/course/?https://raw.githubusercontent.com/MUebachs/Self-learning-module-Train-the-Trainer-on-Data-Management-Plans/refs/heads/main/README.md#8
  - **Author(s):** Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J.
  - **Learning time:** 2.5 hours
 
@@ -276,12 +276,11 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Section(s)
 
- Section 3.2. Training modules and levels (p. 9).
+ Every Section mentioned in the [Liascript Page](https://liascript.github.io/course/?https://raw.githubusercontent.com/MUebachs/Self-learning-module-Train-the-Trainer-on-Data-Management-Plans/refs/heads/main/README.md#8)
 
  ### Exercise(s)
 
- - [ ] Try creating your own discipline-specific training materials based on the learning objectives (Level 2 - Advanced (p. 10) and Level 3 - Expert (p. 11)).
- - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+ Exercises can be found in the [Liascript Page](https://liascript.github.io/course/?https://raw.githubusercontent.com/MUebachs/Self-learning-module-Train-the-Trainer-on-Data-Management-Plans/refs/heads/main/README.md#8).
 
 # Module 6: Sharing Data & Metadata
 
