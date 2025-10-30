@@ -153,17 +153,22 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  - [ ] Considering the stages of the [RDMkit research data life cycle](https://rdmkit.elixir-europe.org/data_life_cycle) (i.e. plan, collect, process, analyse, preserve, share, reuse), could you suggest one or more open practices for each stage that are specific to your discipline? Share a sample in the [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and see what ideas others have!
  - [ ] Please answer the following questions using bullet points:
-    - What are the potential advantages of open science practices in the subject area in which your users are active? (Please specify the area.)
-    - What are the potential challenges of implementing open science practices in this subject area?
+
+ 1. What are the potential advantages of open science practices in the subject area in which your users are active? (Please specify the area.)
+
+ 2. What are the potential challenges of implementing open science practices in this subject area?
+
  - [ ] Write a brief profile of a tool or initiative that can be used to promote or implement open science. This could be a tool or initiative that you know about or use, or that your institution offers or is involved in. The minimum information required is: 
-    - Name of the tool/initiative
-    - Link
-    - Assignment to the step in the research data life cycle
-    - One to two sentences/key points on the extent to which it supports open science.
+
+ - Name of the tool/initiative
+ - Link
+ - Assignment to the step in the research data life cycle
+ - One to two sentences/key points on the extent to which it supports open science.
 
     This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
- - [ ] Adapt the checklist for your own discipline by providing examples.
- - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
+
+    - [ ] Adapt the checklist for your own discipline by providing examples.
+    - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
  ### Going Beyond the Material
 
