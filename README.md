@@ -17,8 +17,8 @@ sharing: off
 
 version: 1.0
 
-logo: https://base4nfdi.de/images/Logo_base4NFDI_kurz-1.png
-icon: https://base4nfdi.de/images/Logo_base4NFDI_kurz-1.png
+logo: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
+icon: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
 
 -->
 
