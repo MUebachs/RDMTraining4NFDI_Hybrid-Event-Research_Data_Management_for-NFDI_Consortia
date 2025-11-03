@@ -609,7 +609,7 @@ Send your teaching script or outline to [rdmtraining4nfdi-orga@lists.nfdi.de](rd
  - Understand the different access options that exist for data/digital resources.
  - Describe methods for setting up access rights.
  - Implement (alternative) research practices to achieve more Open Data.
- - Identify persistent identifiers and explain their different use cases.
+ - Identify persistent identifiers (PIDs) and explain their different use cases.
  - Appraise the usefulness of PIDs.
  - Find and choose an appropriate repository to publish their data.
 
@@ -622,18 +622,20 @@ Send your teaching script or outline to [rdmtraining4nfdi-orga@lists.nfdi.de](rd
  - [ ] **Slide 39:** How many Digital Object Identifiers (DOIs) have been assigned so far?
  - [ ] **Slide 44:** Find your institution's Research Organization Registry (ROR) entry. How many child and related organisations are associated with your institution?
  - [ ] **Slide 76:** Check your institution's requirements regarding data sharing and publication. For example, are researchers required to deposit their results locally?
- - [ ] **Slide 85:** Based on the criteria below, use re3data to find a trustworthy repository in your field of research:
-    - [ ] Does the repository provide:
-        - [ ] Open Access to its data?
-        - [ ] The terms of use and licenses of the data?
-        - [ ] A policy to help researchers determine whether their data needs will be met?
-    - [ ] Does the repository use the Digital Object Identifier (DOI)?
-    - [ ] Is the repository certified or support a repository standard?
+ - [ ] **Slide 85:** Based on the criteria below, use [re3data](https://www.re3data.org/) to find a trustworthy repository in your field of research:
+    - Does the repository provide:
+        - Open Access to its data?
+        -  The terms of use and licenses of the data?
+        - A policy to help researchers determine whether their data needs will be met?
+    - Does the repository use the Digital Object Identifier (DOI)?
+    - Is the repository certified or support a repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Further self-learning materials that can be of interest
 
- - https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1 
+ - [Data Organisation](https://doi.org/10.4126/FRL01-006484175)
+ - [NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
+](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1)
 
 # Participant Questionnaire
 
@@ -643,10 +645,11 @@ Send your teaching script or outline to [rdmtraining4nfdi-orga@lists.nfdi.de](rd
 
 # Authors & Contributors
 
- - Justine Vandendorpe
- - Jasmin Schmitz
- - Antje Manske
- - Marco Uebachs
- - Marisa Gonzalez Ocanto
- - Till Sauerwein
- - Mareike Wohltmann
+ - Justine Vandendorpe (ORCID: [0000-0002-9421-8582](https://orcid.org/0000-0002-9421-8582))
+ - Jasmin Schmitz (ORCID: [0000-0003-1427-1808](https://orcid.org/0000-0003-1427-1808))
+ - Antje Manske (ORCID: [0009-0001-0248-4462](https://orcid.org/0009-0001-0248-4462))
+ - Marco Uebachs (ORCID: [](https://orcid.org/0009-0001-4052-0751))
+ - Marisa Gonzalez Ocanto (ORCID: [0000-0001-5485-9724
+](https://orcid.org/0000-0001-5485-9724))
+ - Till Sauerwein (ORCID: [0000-0001-5830-4208](https://orcid.org/0000-0001-5830-4208))
+ - Mareike Wohltmann (ORCID: [0009-0006-4329-7619](https://orcid.org/0009-0006-4329-7619))
