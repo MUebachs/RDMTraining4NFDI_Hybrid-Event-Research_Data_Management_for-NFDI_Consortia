@@ -649,7 +649,6 @@ Send your teaching script or outline to [rdmtraining4nfdi-orga@lists.nfdi.de](rd
  - Jasmin Schmitz (ORCID: [0000-0003-1427-1808](https://orcid.org/0000-0003-1427-1808))
  - Antje Manske (ORCID: [0009-0001-0248-4462](https://orcid.org/0009-0001-0248-4462))
  - Marco Uebachs (ORCID: [](https://orcid.org/0009-0001-4052-0751))
- - Marisa Gonzalez Ocanto (ORCID: [0000-0001-5485-9724
-](https://orcid.org/0000-0001-5485-9724))
+ - Marisa Gonzalez Ocanto (ORCID: [0000-0001-5485-9724](https://orcid.org/0000-0001-5485-9724))
  - Till Sauerwein (ORCID: [0000-0001-5830-4208](https://orcid.org/0000-0001-5830-4208))
  - Mareike Wohltmann (ORCID: [0009-0006-4329-7619](https://orcid.org/0009-0006-4329-7619))
