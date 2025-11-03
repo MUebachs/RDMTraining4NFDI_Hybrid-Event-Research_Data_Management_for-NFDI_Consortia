@@ -286,7 +286,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...design and deliver didactic scenarios to train and empower other researchers.
 
 
-  ## Table of Contents
+## Table of Contents
 
 1. Data Management Plan (DMP): Refreshing Your Knowledge
 2. DMP Templates: A deep dive
