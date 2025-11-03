@@ -27,14 +27,14 @@ icon: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
 # RDMTraining4NFDI Hybrid Event: Research Data Management for NFDI Consortia
 **Contact:** Justine Vandendorpe (vandendorpe@zbmed.de)
 
-## Quick Start Guide: Top 4 Things to Know
+ ## Quick Start Guide: Top 4 Things to Know
 
 1. Join our dedicated [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and post a “hello” message.
 2. For each module, go through the **material** provided and complete the **exercises**.
 3. Some exercises require an open answer. Feel free to compile these in a document and send it to vandendorpe@zbmed.de at the end of the self-learning phase for feedback.
 4. We are able to provide this learning opportunity at no cost for you thanks to project funding, please complete the [feedback form](https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/) at the end of the self-learning phase (21 November 2025) to help us evaluate this course.
 
-## About This Document
+ ## About This Document
 
 This guide is designed to support participants of the RDMTraining4NFDI Hybrid Event during the self-learning phase. It provides:
 
@@ -168,7 +168,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Section(s)
 
- [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access) and at least one other section. Let your fellow learners know what your main take away has been.
+ [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access) and at least one other section.
 
  ### Exercise(s)
 
@@ -186,7 +186,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - Assignment to the step in the research data life cycle
  - One to two sentences/key points on the extent to which it supports open science.
 
- This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
+     This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
 
  - [ ] Adapt the checklist for your own discipline by providing examples.
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
@@ -196,7 +196,9 @@ If you have any questions about the materials, exercises, or other aspects of th
  - [ ] Here is the definition of Open Science from the UNESCO Recommendation on Open Science:
 
     “[…] For the purpose of this Recommendation, Open Science is defined as an inclusive construct that combines various movements and practices aiming to make scientific knowledge openly available, accessible and reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. […]”
-    https://unesdoc.unesco.org/ark:/48223/pf0000379949?posInSet=3&queryId=70bbc01e-867a-40ad-8c24-e90f0b4c1ae0 
+    https://unesdoc.unesco.org/ark:/48223/pf0000379949?posInSet=3&queryId=70bbc01e-867a-40ad-8c24-e90f0b4c1ae0
+
+ 
     Research another definition of open science from an institution or organisation that plays a significant role in your work or discipline. How does this definition differ from or resemble the one mentioned?
 
 # Module 3: Python for Advanced
