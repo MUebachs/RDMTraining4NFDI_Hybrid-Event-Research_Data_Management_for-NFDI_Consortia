@@ -77,7 +77,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
    - Contents
 
-     - What is Research Data Policy?
+     - What is a Research Data Policy?
      - Journal and Publisher Policies
      - Institutional Policies
      - Subject-Specific Policies
@@ -102,7 +102,7 @@ If you have any questions about the materials, exercises, or other aspects of th
      - Metadata Standards
      - Discipline-Specific Metadata Standards
      - Thesaurus, Authority Data and Controlled Vocabulary
-     - Electronic Lab Notebooks (ELN) 
+     - Electronic Lab Notebooks (ELNs) 
    - Learning time: 10-20 minutes
  - Unit 9: Storage and Backup
 
@@ -134,7 +134,7 @@ If you have any questions about the materials, exercises, or other aspects of th
      - Access and Usage Conditions
      - Guiding Questions for Assessing Reusability
      - Citing
-   - Learning time:~15 minutes
+   - Learning time: ~15 minutes
  - Unit 18: Research Data Infrastructures
 
    - Contents
@@ -146,8 +146,8 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Exercise(s)
 
-  - [ ] Which units are you choosing? Connect with others studying the same unit(s) via [Rocket.Chat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4)
-  - [ ] For each section, there are colour-coded boxes containing methods and materials: pink for in-person workshops, green for online workshops, and orange for workshops that can be done in person or online.Identify the methods that interest you, try them out, and consider adapting them to your own discipline.  These adaptations can be used for the [asynchronous homework](https://docs.google.com/document/d/17udXRDxn9cn2IMLlOlOOTghMWZN3K67yZSZ0Z11XMAM/edit?tab=t.0#heading=h.kri4fe3v5b1t) phase.
+  - [ ] Which units are you choosing? Connect with others studying the same unit(s) via [Rocket.Chat](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4). 
+  - [ ] For each section, there are colour-coded boxes containing methods and materials: pink for in-person workshops, green for online workshops, and orange for workshops that can be done in person or online. Identify the methods that interest you, try them out, and consider adapting them to your own discipline.  These adaptations can be used for the [asynchronous homework](https://docs.google.com/document/d/17udXRDxn9cn2IMLlOlOOTghMWZN3K67yZSZ0Z11XMAM/edit?tab=t.0#heading=h.kri4fe3v5b1t) phase.
   - [ ] Once you have familiarised yourself with the train-the-trainer concept, revisit the aforementioned goal(s) and see if you can fulfil them.
   - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
