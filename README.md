@@ -267,7 +267,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-  ## Introductory Information
+## Introductory Information
 
 **Duration**: 2.5 hours
 
@@ -284,8 +284,6 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...write and review DMPs independently.
  - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers.
  - ...design and deliver didactic scenarios to train and empower other researchers.
-
-
 
 ## Table of Contents
 
@@ -351,7 +349,7 @@ Less than four correct answers? Don't worry, we'll cover everything again on the
 
 ### Components
 
-**commonly used components in DMPs**
+**Commonly used components in DMPs**
 
 ![alt](https://github.com/MUebachs/Self-learning-module-Train-the-Trainer-on-Data-Management-Plans/blob/main/Ressources/Components_in_DMPs.png?raw=true)
 
@@ -379,7 +377,7 @@ List of components:
 | **Budget, costs and resources** | - The DMP provides clear estimates of the resources and costs (e.g. hardware, staff time, repository charges) that will be dedicated to data management and ensuring that data will be FAIR. It describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed. |
 | **Data origin, types and formats** | - The DMP clearly describes where the data come from and how new data will be collected or produced, including the methods and software used. If existing data are reused, it explains how they are accessed and any restrictions. Where relevant, it justifies why new data need to be collected instead of reusing existing ones.<br><br>- The DMP also outlines the types and formats of data to be generated (e.g. numeric, textual, audio, video), any conversion strategies, and the reasons for choosing specific formats (e.g. open vs. proprietary). The DMP includes estimates of data volume and, if applicable, states when no new data will be produced. |
 | **Metadata (standards) and documentation** | - The DMP outlines the metadata that will accompany the data, following good practices in the research community and using established metadata standards where available. It specifies the documentation required to enable data re-use and indicates where this information will be recorded.<br><br>- The DMP also describes how data will be organised during the project, including naming conventions, version control strategies, and folder structures. Additionally, it explains the approach for ensuring and documenting quality control throughout the data collection process.|
-**Data storage and preservation** | - The DMP describes where data and backups will be stored, how often backups occur, and the use of secure, managed storage. If institutional storage is not used, it explains alternatives and procedures. It covers data recovery, applicable protection policies, access rights, and security measures for sensitive data.<br><br>- The DMP also specifies which data and documentation will be preserved long-term, the rationale for retention or destruction, and potential for re-use. It explains how data and required technology will be archived, managed beyond the grant, and made available through a repository or curation approach. |
+| **Data storage and preservation** | - The DMP describes where data and backups will be stored, how often backups occur, and the use of secure, managed storage. If institutional storage is not used, it explains alternatives and procedures. It covers data recovery, applicable protection policies, access rights, and security measures for sensitive data.<br><br>- The DMP also specifies which data and documentation will be preserved long-term, the rationale for retention or destruction, and potential for re-use. It explains how data and required technology will be archived, managed beyond the grant, and made available through a repository or curation approach. |
 | **Data access and publication** | - The DMP describes how data and metadata will be made discoverable and shared, when they will be released, and under which licence. It names the repository, catalogue, or registry where data will be available and states how long they will be retained. Where sharing is limited or not possible, the DMP explains why, who can access the data, and under what conditions. It also outlines steps to reduce or overcome sharing restrictions.<br><br>- The DMP identifies the tools, software, or protocols needed to access and re-use the data, including any authentication or access request procedures. It explains how data can be re-used in other contexts, specifies whether persistent identifiers (PIDs) are provided, and justifies the chosen approach with reference to international standards. |
 | **Legal aspects** | - The DMP indicates whether personal data will be collected or used and explains how compliance with relevant legislation will be ensured, for example through informed consent, encryption, anonymisation, or pseudonymisation. It describes procedures to restrict access to authorised users.<br><br>- Where relevant, the DMP clarifies who controls access to specific data, the applicable access conditions and re-use licenses, and how intellectual property rights are managed. For multi-partner projects or multiple data owners, it explains how these issues are addressed in agreements. Alternatively, it provides a clear statement if no restrictions apply and notes any restrictions on re-use of third-party data.<br><br>- The DMP outlines ethical considerations affecting data storage, transfer, use, sharing, and preservation, and describes measures in place to manage them. It mentions whether ethical review is being pursued or, if approval has been obtained, refers to the relevant committee and documents. The DMP also refers to applicable ethical guidelines or codes of conduct, or explains why ethical issues are not applicable. |
 
@@ -393,7 +391,7 @@ We will now present some DMP extracts. Using the evaluation criteria you have ju
 
 You can have a look at the extended evaluation criteria here: [10.5281/zenodo.4915861](https://doi.org/10.5281/zenodo.4915861)
 
-Once you have completed your review, please send it to [rdmtraining4nfdi-orga@lists.nfdi.de](rdmtraining4nfdi-orga@lists.nfdi.de) 
+Once you have completed your review, please send it to rdmtraining4nfdi-orga@lists.nfdi.de.
 
 **Exercise 1a**
 
@@ -495,7 +493,7 @@ Creating effective DMP templates requires balancing community needs, technical i
  - Use common tools (for example, RDMO) as a central integration point that can connect with other systems and services.
  - Encourage collaboration between central RDM service units and research teams to align institutional and disciplinary perspectives.
 
-**🛠️Adapt to Disciplinary Contexts**
+**🛠️ Adapt to Disciplinary Contexts**
 
  - Tailor the DMP template to reflect the specific data types, metadata standards, and repository options relevant to your field.
  - Keep the structure flexible—some sections may need to be optional or adapted depending on the research context.
@@ -513,20 +511,20 @@ Creating effective DMP templates requires balancing community needs, technical i
 
 Providing effective support for researchers in completing and maintaining DMPs goes beyond sharing templates. It involves communication, engagement, and institutional coordination. The following best practices can help you offer meaningful guidance and foster adoption of DMPs within your community.
 
-**💬Support = Communication + Coordination**
+**💬 Support = Communication + Coordination**
 
  - Expect that 50–60% of your effort may go into communication tasks, including emails, meetings, and reminders.
  - Schedule smartly: Offer only 1–2 time options to avoid endless coordination.
  - Offer hands-on support: Helping researchers fill out a DMP can be more impactful than distributing written guidance alone.
 
-**🤝Building Trust and Engagement**
+**🤝 Building Trust and Engagement**
 
  - Highlight how DMPs help researchers document for their future selves. 
  - Find ways to connect DMPs to everyday workflows, such as laboratory notebooks, project management tools, or data repositories, to reduce duplication and workload. 
  - Address real concerns with practical solutions (e.g. data sharing anxiety? → embargos are possible).
  - Frame DMPs as the future norm: “This is becoming standard practice”. If possible,  provide concrete examples of good practice and demonstrate how well-designed DMPs improve data quality, discoverability, and re-use.
 
-**🏛️Activate Institutional Support Networks**
+**🏛️ Activate Institutional Support Networks**
 
  - Get leadership support (e.g. principal investigators) to ensure continuity and legitimacy. 
  - Encourage researchers to reach out to library (UB) teams, they offer long-term support and continuity across changing roles.
@@ -590,7 +588,7 @@ Teaching script example
 |--------------------|---------------------|---------------------|---------------------|
 |1. Presentation|1. Name <br>participants<br> (Talk) |The participants overcome their inhibitions to speak|Task: Participants state their names|
 
-Send your teaching script or outline to [rdmtraining4nfdi-orga@lists.nfdi.de](rdmtraining4nfdi-orga@lists.nfdi.de) to receive feedback
+Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to receive feedback
 
 >💡 Tip: Focus on aligning your teaching activities with the objectives. Each objective should have a clear plan for how participants will engage with and achieve it.
 
