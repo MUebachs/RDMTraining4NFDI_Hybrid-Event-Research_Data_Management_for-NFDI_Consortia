@@ -267,8 +267,6 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-## Introductory Information
-
 **Duration**: 2.5 hours
 
 **About the module:** This module is based on the [DMP4NFDI Train-the-Trainer concept for Data Management Plans](https://doi.org/10.5281/zenodo.15771035) (DMPs). It expands upon the foundational knowledge of DMPs, guiding participants towards greater independence and a deeper understanding of how to apply DMPs.
@@ -284,13 +282,6 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...write and review DMPs independently.
  - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers.
  - ...design and deliver didactic scenarios to train and empower other researchers.
-
-## Table of Contents
-
-1. Data Management Plan (DMP): Refreshing Your Knowledge
-2. DMP Templates: A deep dive
-3. Best Practices for Template Creation and Support
-4. Facilitating DMP Learning
 
 ## 1. Data Management Plan (DMP): Refreshing Your Knowledge
 
