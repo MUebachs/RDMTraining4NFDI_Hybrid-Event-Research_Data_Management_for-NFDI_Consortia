@@ -27,14 +27,14 @@ icon: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
 # RDMTraining4NFDI Hybrid Event: Research Data Management for NFDI Consortia
 **Contact:** Justine Vandendorpe (vandendorpe@zbmed.de)
 
- ## Quick Start Guide: Top 4 Things to Know
+**Quick Start Guide: Top 4 Things to Know**
 
 1. Join our dedicated [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and post a “hello” message.
 2. For each module, go through the **material** provided and complete the **exercises**.
 3. Some exercises require an open answer. Feel free to compile these in a document and send it to vandendorpe@zbmed.de at the end of the self-learning phase for feedback.
 4. We are able to provide this learning opportunity at no cost for you thanks to project funding, please complete the [feedback form](https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/) at the end of the self-learning phase (21 November 2025) to help us evaluate this course.
 
- ## About This Document
+ **About This Document**
 
 This guide is designed to support participants of the RDMTraining4NFDI Hybrid Event during the self-learning phase. It provides:
 
