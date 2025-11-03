@@ -285,6 +285,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers
  - ...design and deliver didactic scenarios to train and empower other researchers
 
+
   ## Table of contents
 
 1. Data Management Plan (DMP): Refreshing your knowledge
