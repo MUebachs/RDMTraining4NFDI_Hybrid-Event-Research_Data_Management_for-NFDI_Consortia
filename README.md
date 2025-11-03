@@ -267,9 +267,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-## Self-learning-module-Train-the-Trainer-on-Data-Management-Plans
-
-### Introductory information
+  ## Introductory information
 
 **Duration**: 2.5 hours
 
@@ -287,7 +285,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers
  - ...design and deliver didactic scenarios to train and empower other researchers
 
-### Table of contents
+  ## Table of contents
 
 1. Data Management Plan (DMP): Refreshing your knowledge
 2. DMP Templates: A deep dive
