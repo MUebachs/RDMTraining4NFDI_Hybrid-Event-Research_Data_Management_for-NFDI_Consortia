@@ -319,11 +319,11 @@ To be FAIR, a data management plan should...
 
 Which of these aspects are part of a DMP?
 
-- [(x)] Information on storage and backup during the project
-- [(x)] Costs of data management
-- [( )] Vote of an ethics committee
-- [(x)] Responsible people for data management
-- [( )] Description of the benefits of the data management plan
+- [[x]] Information on storage and backup during the project
+- [[x]] Costs of data management
+- [[ ]] Vote of an ethics committee
+- [[x]] Responsible people for data management
+- [[ ]] Description of the benefits of the data management plan
 
 **How did you do?**
 
