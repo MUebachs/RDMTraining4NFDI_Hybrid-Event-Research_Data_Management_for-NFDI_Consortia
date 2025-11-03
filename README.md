@@ -286,6 +286,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - ...design and deliver didactic scenarios to train and empower other researchers.
 
 
+
 ## Table of Contents
 
 1. Data Management Plan (DMP): Refreshing Your Knowledge
@@ -315,9 +316,10 @@ What is one key benefit of using a DMP in a research project?
  - [(x)] It helps manage data and lowers the risk of data loss
  - [( )] It guarantees that research will be published
 
-True or False
+The DMP is primarily a control instrument of the funders.
 
- - [( )] The DMP is primarily a control instrument of the funders.
+ - [( )] True
+ - [( )] False
 
 To be FAIR, a data management plan should...
 
