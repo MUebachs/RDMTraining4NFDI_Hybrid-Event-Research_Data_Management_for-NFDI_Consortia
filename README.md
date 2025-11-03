@@ -267,7 +267,7 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
 
-  ## Introductory information
+  ## Introductory Information
 
 **Duration**: 2.5 hours
 
@@ -279,22 +279,21 @@ If you have any questions about the materials, exercises, or other aspects of th
 
 **Learning objectives**: After completing this module, you will be able to...
 
- - ...discuss and analyse the application of both DMPs and maDMPs
- - ...compare and tailor funder requirements to domain-specific needs —  i.e. first steps in creating DMP templates
- - ...write and review DMPs independently
- - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers
- - ...design and deliver didactic scenarios to train and empower other researchers
+ - ...discuss and analyse the application of both DMPs and maDMPs.
+ - ...compare and tailor funder requirements to domain-specific needs —  i.e. first steps in creating DMP templates.
+ - ...write and review DMPs independently.
+ - ...support researchers writing DMPs — e.g. evaluate the completeness and accuracy of answers.
+ - ...design and deliver didactic scenarios to train and empower other researchers.
 
 
-  ## Table of contents
+  ## Table of Contents
 
-1. Data Management Plan (DMP): Refreshing your knowledge
+1. Data Management Plan (DMP): Refreshing Your Knowledge
 2. DMP Templates: A deep dive
-3. Best practices for template creation and support 
-4. Facilitating DMP learning
-5. Further literature & online sources
+3. Best Practices for Template Creation and Support
+4. Facilitating DMP Learning
 
-## 1. Data Management Plan (DMP): Refreshing your knowledge
+## 1. Data Management Plan (DMP): Refreshing Your Knowledge
 
 **Pop Quiz!**
 
@@ -414,7 +413,7 @@ Upon completion of the project the digital outputs of the project will be migrat
 
 The project will leverage existing metadata standards currently stored in Ecological Metadata Language (EML) format. We will add additional metadata entries for the arthropod community composition and arthropod stoichiometry; field notes taken during the time of collection will be recorded. Morpho software will be used to generate the metadata file in EML. We chose EML format for our metadata since it allows integration with existing NutNet data housed in the Knowledge Network for Biocomplexity (KNB) data repository. After publication of manuscripts based on the data we collect, we will share our data and metadata with the NutNet community. We will also submit both of our datasets (abundance and stoichiometry) to the {}, an archive for digital preservation. This will occur within a year of publication. 
 
-## 2. DMP Templates : A deep dive
+## 2. DMP Templates : A Deep Dive
 
 ### General templates (EU/Germany)
 
@@ -483,8 +482,8 @@ Traditional DMPs can feel time-consuming and bureaucratic for researchers. Howev
 
  - **Which types of information, services, or tools could be automated or integrated into a DMP template within your consortium or research discipline to better support researchers?**
 
-## 3. Best practices...
-### ... for DMP Template Creation
+## 3. Best Practices...
+### ... for Template Creation
 
 Creating effective DMP templates requires balancing community needs, technical integration, and long-term sustainability. The following best practices draw on experiences and reflections shared by research data professionals who have worked on designing or improving DMP templates within their consortia.
 
@@ -508,7 +507,7 @@ Creating effective DMP templates requires balancing community needs, technical i
 
  > 💡 Tip: The Basic Service DMP4NFDI supports NFDI consortia in providing a DMP service to their community. Their services include…<br><br> - …hosting RDMO for your consortium,<br><br>- …supporting the creation of DMP Templates aligned with international standards,<br><br>- …helping you raise awareness of DMPs within your consortium<br><br>- …supporting the integration of RDMO with other tools and service <br><br>Interested? Learn more and get in touch:  https://dmp.services.base4nfdi.de/
 
-### ... for DMP support
+### ... for DMP Support
 
 Providing effective support for researchers in completing and maintaining DMPs goes beyond sharing templates. It involves communication, engagement, and institutional coordination. The following best practices can help you offer meaningful guidance and foster adoption of DMPs within your community.
 
