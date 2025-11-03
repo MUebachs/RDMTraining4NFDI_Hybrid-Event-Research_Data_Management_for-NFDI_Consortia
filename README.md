@@ -250,7 +250,8 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  In this module, you will:
 
- - Create a Git repository.
+ - Create a local Git repository.
+ - Create a repository on GitHub.
  - Track changes to files using the Git repository.
  - Query the current status of the Git repository.
 
@@ -261,7 +262,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  ### Exercise(s)
 
  - [ ] Coding along: the training material contains lines of code that you are invited to try out for yourself as you work through it.
- - [ ] Checking out: https://learngitbranching.js.org/ 
+ - [ ] Checking out: https://learngitbranching.js.org/. 
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Module 5: Train-The-Trainer Workshop on Data Management Plans (DMPs)
