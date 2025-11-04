@@ -53,6 +53,7 @@ If you have any questions about the materials, exercises, or other aspects of th
  - **Title:** Train-the-Trainer Concept on Research Data Management
  - **URL:** https://doi.org/10.5281/zenodo.13927614 
  - **Author(s):** Biernacka, K., Castillo Upiachihua, C. B., Dockhorn, R., Engelhardt, C., Grunwald-Eckhardt, L., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Scherreiks, P., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C.
+ - **Learning time:** please refer to the the learning time for each unit below. 
 
  ### Goal(s)
 
