@@ -308,7 +308,7 @@ What is one key benefit of using a DMP in a research project?
 The DMP is primarily a control instrument of the funders.
 
  - [( )] True
- - [( )] False
+ - [(x)] False
 
 To be FAIR, a data management plan should...
 
