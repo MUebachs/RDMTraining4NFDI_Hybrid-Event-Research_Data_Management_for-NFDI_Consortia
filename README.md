@@ -42,6 +42,8 @@ This guide is designed to support participants of the RDMTraining4NFDI Hybrid Ev
  - Guidance on which sections to follow and which exercises to complete.
  - A questionnaire at the end, to be filled out once you have completed the self-learning phase.
 
+You can refer to the [event pad](https://cryptpad.fr/pad/#/2/pad/edit/6JhfzBcCJpuZEluzRABeJ0J-/) for additional information.
+
 If you have any questions about the materials, exercises, or other aspects of the self-learning phase, please post them in our dedicated [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4).
 
 # Module 1: Foundations of Research Data Management for Trainers
@@ -619,12 +621,6 @@ Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to r
     - Does the repository use the Digital Object Identifier (DOI)?
     - Is the repository certified or support a repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
-
-# Further self-learning materials that can be of interest
-
- - [Data Organisation](https://doi.org/10.4126/FRL01-006484175)
- - [NFDI4Biodiversity Self-Study Unit - Research Data Management for Biodiversity Data
-](https://liascript.github.io/course/?https://raw.githubusercontent.com/NFDI4Biodiversity/nfdi4biodiversity-sle/main/README.md#1)
 
 # Participant Questionnaire
 
