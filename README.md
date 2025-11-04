@@ -9,7 +9,7 @@ author: Justine Vandendorpe
 
 comment: **RDMTraining4NFDI Hybrid Event: Research Data Management for NFDI Consortia**
 
-logo: https://base4nfdi.de/images/Logo_base4NFDI_kurz-1.png
+logo: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
 
 classroom: false
 classroom: disable
