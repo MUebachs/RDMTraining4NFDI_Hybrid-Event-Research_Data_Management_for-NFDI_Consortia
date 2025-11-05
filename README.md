@@ -616,17 +616,7 @@ Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to r
  - [ ] **Slide 39:** How many Digital Object Identifiers (DOIs) have been assigned so far?
  - [ ] **Slide 44:** Find your institution's Research Organization Registry (ROR) entry. How many child and related organisations are associated with your institution?
  - [ ] **Slide 76:** Check your institution's requirements regarding data sharing and publication. For example, are researchers required to deposit their results locally?
- - [ ] **Slide 85:** Based on the criteria below, use [re3data](https://www.re3data.org/) to find a trustworthy repository in your field of research:
-
-   - Does the repository provide:
-       
-     - Open Access to its data?
-     - The terms of use and licenses of the data?
-     - A policy to help researchers determine whether their data needs will be met?
-           
-   - Does the repository use the Digital Object Identifier (DOI)?
-   - Is the repository certified or support a repository standard?
-       
+ - [ ] **Slide 85:** Based on the following criteria, use [re3data](https://www.re3data.org/) to find a trustworthy repository in your field of research. Does the repository provide: (1) open access to its data; (2) clearly stated terms of use and data licenses; (3) policies to help researchers determine whether their data needs will be met; (4) Digital Object Identifiers (DOIs); and (5) certification or support for a recognized repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Feedback Survey
