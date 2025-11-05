@@ -184,10 +184,10 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  - [ ] Write a brief profile of a tool or initiative that can be used to promote or implement open science. This could be a tool or initiative that you know about or use, or that your institution offers or is involved in. The minimum information required is: 
 
- - Name of the tool/initiative
- - Link
- - Assignment to the step in the research data life cycle
- - One to two sentences/key points on the extent to which it supports open science.
+  - Name of the tool/initiative
+  - Link
+  - Assignment to the step in the research data life cycle
+  - One to two sentences/key points on the extent to which it supports open science.
 
      This is a great opportunity to team up with others from your consortium! You can start collaborating now, or plan exchange time during the asynchronous homework phase (24 November to 5 December). If you’d rather, you’re also welcome to work independently.
 
