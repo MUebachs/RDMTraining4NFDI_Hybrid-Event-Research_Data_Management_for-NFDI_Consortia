@@ -209,8 +209,9 @@ If you have any questions about the materials, exercises, or other aspects of th
  ### Module
 
 - **Titles and URLs:**
+
     * Notebook a: [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
-    * Notebook ab: [Merge Data Frames With Pandas (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby-en.ipynb) 
+    * Notebook b: [Merge Data Frames With Pandas (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby-en.ipynb) 
     * Notebook c: [Object-Oriented Programming (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/object_orientated_programming/Object-Oriented-Programming_english.ipynb) 
     * Notebook d: [ISBN Cleaning Function (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/python_functions/ISBN_cleaning_function_english.ipynb)
        
@@ -616,12 +617,12 @@ Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to r
  - [ ] **Slide 44:** Find your institution's Research Organization Registry (ROR) entry. How many child and related organisations are associated with your institution?
  - [ ] **Slide 76:** Check your institution's requirements regarding data sharing and publication. For example, are researchers required to deposit their results locally?
  - [ ] **Slide 85:** Based on the criteria below, use [re3data](https://www.re3data.org/) to find a trustworthy repository in your field of research:
-    - Does the repository provide:
-        - Open Access to its data?
-        -  The terms of use and licenses of the data?
-        - A policy to help researchers determine whether their data needs will be met?
-    - Does the repository use the Digital Object Identifier (DOI)?
-    - Is the repository certified or support a repository standard?
+     - Does the repository provide:
+         - Open Access to its data?
+         - The terms of use and licenses of the data?
+         - A policy to help researchers determine whether their data needs will be met?
+     - Does the repository use the Digital Object Identifier (DOI)?
+     - Is the repository certified or support a repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
 # Feedback Survey
