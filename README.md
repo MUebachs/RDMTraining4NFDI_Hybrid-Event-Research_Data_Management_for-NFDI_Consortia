@@ -620,9 +620,9 @@ Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to r
 
    - Does the repository provide:
        
-     - Open Access to its data?
-     - The terms of use and licenses of the data?
-     - A policy to help researchers determine whether their data needs will be met?
+    - Open Access to its data?
+    - The terms of use and licenses of the data?
+    - A policy to help researchers determine whether their data needs will be met?
            
    - Does the repository use the Digital Object Identifier (DOI)?
    - Is the repository certified or support a repository standard?
