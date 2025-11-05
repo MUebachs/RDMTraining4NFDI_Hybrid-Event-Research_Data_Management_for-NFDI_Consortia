@@ -208,15 +208,15 @@ If you have any questions about the materials, exercises, or other aspects of th
 
  ### Module
 
-- **Titles and URLs:**
+ - **Titles and URLs:**
 
-    * Notebook a: [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
-    * Notebook b: [Merge Data Frames With Pandas (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby-en.ipynb) 
-    * Notebook c: [Object-Oriented Programming (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/object_orientated_programming/Object-Oriented-Programming_english.ipynb) 
-    * Notebook d: [ISBN Cleaning Function (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/python_functions/ISBN_cleaning_function_english.ipynb)
+   - Notebook a: [Introduction to Seaborn for Data Visualisation (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Introduction_into_seaborn_with_penguin_data_set.ipynb) 
+   - Notebook b: [Merge Data Frames With Pandas (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/Python_pandas/Pandas_merging_apply_groupby-en.ipynb) 
+   - Notebook c: [Object-Oriented Programming (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/object_orientated_programming/Object-Oriented-Programming_english.ipynb) 
+   - Notebook d: [ISBN Cleaning Function (EN)](https://github.com/foerstner-lab/Bits_and_pieces_for_the_carpentries_workshops/blob/main/python/python_functions/ISBN_cleaning_function_english.ipynb)
        
-- **Author(s):** Förstner Lab
-- **Learning time:** 2.5 hours
+ - **Author(s):** Förstner Lab
+ - **Learning time:** 2.5 hours
 
  ### Goal(s)
 
