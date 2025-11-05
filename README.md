@@ -32,7 +32,7 @@ icon: https://base4nfdi.de/images/nicepage-images/RDMTraining4NFDI.png
 1. Join our dedicated [Rocket.Chat channel](https://go.rocket.chat/invite?host=all-chat.nfdi.de&path=invite%2F5uFTm4) and post a “hello” message.
 2. For each module, go through the **material** provided and complete the **exercises**.
 3. Some exercises require an open answer. Feel free to compile these in a document and send it to vandendorpe@zbmed.de at the end of the self-learning phase for feedback.
-4. We are able to provide this learning opportunity at no cost for you thanks to project funding, please complete the [feedback form](https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/) at the end of the self-learning phase (21 November 2025) to help us evaluate this course.
+4. We are able to provide this learning opportunity at no cost for you thanks to project funding, please complete the [feedback survey](https://www.2ask-survey.com/c/73EKDJ1C1C7A2/) at the end of the self-learning phase (21 November 2025) to help us evaluate this course.
 
  **About This Document**
 
@@ -40,7 +40,7 @@ This guide is designed to support participants of the RDMTraining4NFDI Hybrid Ev
 
  - An overview of the self-learning modules.
  - Guidance on which sections to follow and which exercises to complete.
- - A questionnaire at the end, to be filled out once you have completed the self-learning phase.
+ - A feedback survey at the end, to be filled out once you have completed the self-learning phase.
 
 You can refer to the [event pad](https://cryptpad.fr/pad/#/2/pad/edit/6JhfzBcCJpuZEluzRABeJ0J-/) for additional information.
 
@@ -623,11 +623,11 @@ Send your teaching script or outline to rdmtraining4nfdi-orga@lists.nfdi.de to r
     - Is the repository certified or support a repository standard?
  - [ ] For each section of this module, or for the module as a whole, write down the three most important things you have learned.
 
-# Participant Questionnaire
+# Feedback Survey
 
- After finishing all or part of the modules, please complete the following questionnaire (which may load slowly), which should take around 10 minutes:
+ After finishing all or part of the modules, please complete the following feedback survey, which should take around 10 minutes:
 
- https://cryptpad.fr/form/#/2/form/view/CTyY4etxrldbNl6z8sy1wYxmIqasFXU1bP4VbzKXyN8/
+ https://www.2ask-survey.com/c/73EKDJ1C1C7A2/ 
 
 # Authors & Contributors
 
